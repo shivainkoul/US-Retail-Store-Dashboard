@@ -5,7 +5,7 @@
 
 
 <H2>2. Short Description</H2>
-
+ 
 A Tableau dashboard for analyzing US retail sales data. It provides insights into sales, profit, cost, customer segments, and regional performance using interactive visuals.
 
 
