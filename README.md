@@ -99,4 +99,4 @@ The Dashboard look like this:
 
 <br><img width="603" height="338" alt="US Retail Dashboard 1" src="https://github.com/shivainkoul/US-Retail-Store-Dashboard/blob/main/Snapshot%201%20of%20the%20dashboard.png" />
 
-<br><img width="603" height="338" alt="US Retail Dashboard 2" src="ADD_IMAGE_LINK_2_HERE" />
+<br><img width="603" height="338" alt="US Retail Dashboard 2" src="https://github.com/shivainkoul/US-Retail-Store-Dashboard/blob/main/Snapshot%202%20of%20the%20dashboard.png" />
