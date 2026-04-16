@@ -1,6 +1,5 @@
 <H1>US RETAIL STORE DASHBOARD</H1>
-
-<BR><H2>1. Project Title</H2>
+<H2>1. Project Title</H2>
 
 🏬 US Retail Store Dashboard
 
@@ -15,15 +14,13 @@ A Tableau dashboard for analyzing US retail sales data. It provides insights int
 • 📊 Tableau Desktop  
 • 📂 Data Cleaning (Excel / CSV)  
 • 📈 Calculated Fields & Aggregations  
-• 🔗 Data Blending / Relationships  
 • 📁 .twbx / .png  
 
 
 <H2>4. Data Source</H2>
 
 Source: US Retail Sales Dataset  
-
-<br>Includes:
+Includes:
 
 • Order Date  
 • Category & Sub-Category  
@@ -57,28 +54,28 @@ Retail data is complex and large, making it difficult to track KPIs, identify tr
 • Total Cost: 3,657K  
 • Total Quantity: 75K  
 
-<br>📈 Sales Trend (Line Chart)  
+📈 Sales Trend (Line Chart)  
 • Monthly sales trend with overall direction  
 
-<br>🏷️ Sales by Sub-Category (Bar Chart)  
+🏷️ Sales by Sub-Category (Bar Chart)  
 • Accessories, Binders, Chairs, Phones, Storage, Tables  
 
-<br>🌍 Sales by State (Map)  
+🌍 Sales by State (Map)  
 • Highlights performance in states like California, Texas, New York  
 
-<br>📊 Sales by Region (Bar Chart)  
+📊 Sales by Region (Bar Chart)  
 • Central, East, South, West comparison  
 
-<br>👥 Segment Distribution (Pie Chart)  
+👥 Segment Distribution (Pie Chart)  
 • Consumer, Corporate, Home Office  
 
-<br>📊 Profit Heatmap  
+📊 Profit Heatmap  
 • Profit distribution across sub-categories and regions  
 
-<br>📊 Category-wise Comparison  
+📊 Category-wise Comparison  
 • Sales vs Profit across sub-categories  
 
-<br>🎛️ Filters  
+🎛️ Filters  
 • State  
 • Sub-Category  
 • Segment  
