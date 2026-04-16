@@ -1,7 +1,7 @@
 <H1>US RETAIL STORE DASHBOARD</H1>
 <H2>1. Project Title</H2>
 
-🏬 US Retail Store Dashboard
+🏬 US Retail Store Dashboard 
 
 
 <H2>2. Short Description</H2>
