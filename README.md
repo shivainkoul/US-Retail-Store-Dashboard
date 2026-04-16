@@ -20,6 +20,7 @@ A Tableau dashboard for analyzing US retail sales data. It provides insights int
 <H2>4. Data Source</H2>
 
 Source: Kaggle.com
+
 Includes:
 
 • Order Date  
